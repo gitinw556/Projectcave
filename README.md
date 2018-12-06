@@ -22,7 +22,36 @@
 
 ราคารวมทั้งหมดก็จะโชว์ขึ้นตรง "ราคารวม"
 
+เมื่อกดปุ่ม OK ก็จะมีรายการสั่งทั้งหมดขึ้นมา
+
 
 ![cave](https://user-images.githubusercontent.com/45479394/49564285-91e46180-f955-11e8-9ef6-a7d745b31b3f.PNG)
 
 
+เลือกแป้ง (โค้ดที่ใช้)
+
+    p1=1;
+    
+          if (p1 == 1){
+      
+              N=10;
+       
+              Total="แป้งธรรมดา+";
+       
+              t1.setText(""+N);
+       
+       }
+       
+           if( n1.isSelected());
+       
+             n2.setSelected(false);
+       
+             n3.setSelected(false);
+            
+            
+            
+            
+            
+            
+            
+            
